@@ -1,6 +1,9 @@
 Week 1 (13/05/2024 - 17/05/2024)
+
 Introduction to MERN Stack
+
 📚 Learn about MongoDB, Express.js, React.js, and Node.js.
+
 🛠️ Setting Up the Development Environment
 
 Install Node.js, MongoDB, and other necessary tools.
